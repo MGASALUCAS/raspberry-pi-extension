@@ -23,8 +23,8 @@ And sadly Usually Arduino doesn’t have network connection, and could not work 
 # Supportive Micro-Controllers
 
 Read more about these boards.
-![Raspberry Pi](https://www.raspberrypi.org/)
-![Arduino](https://www.arduino.cc/)
+https://www.raspberrypi.org/
+https://www.arduino.cc/
 
 
 This idea may work fine with many com
