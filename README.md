@@ -20,7 +20,9 @@ What’s more, Raspberry Pi could not accept analog input via the GPIO pins, and
 Arduino is run with predefined program to process input/output on its GPIO pins.  Better than Raspberry Pi, Arduino has some GPIO pins that could accept analog input, and has several (usually 6) GPIO pins that could generate PWM output with hardware.  There are many well designed shields for Arduino, which could extend Arduino to do specific job. 
 And sadly Usually Arduino doesn’t have network connection, and could not work as USB host.
 
+So up to here have get up pros and cons when working with any of them. If you are doing a serios IOT project this repository is for you.
 
+Let's proceed.
 
 # Supportive Micro-Controllers
 
