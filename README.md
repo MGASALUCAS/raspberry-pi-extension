@@ -1,4 +1,4 @@
-# raspberry-pi-extension
+# 🪐 raspberry-pi-extension
 
 This repositoy is the basic introductory for getting started with Embeded sytems that involves communication between Raspbery pi and Arduino.
 
