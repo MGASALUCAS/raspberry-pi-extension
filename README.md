@@ -3,7 +3,7 @@
 This repositoy is the basic introductory for getting started with Embeded sytems that involves communication between Raspbery pi and Arduino.
 The solution includes a project example on Arduino side and Raspberry Pi Side where we connect them using both pyserial and pyfirmata libraries.
 
-![RPi Arduino-Extension (1)](https://user-images.githubusercontent.com/88959075/186719246-2903d40d-2e22-4b71-b245-dc2bc28255fa.jpg)
+![RPi Arduino-Extension](https://user-images.githubusercontent.com/88959075/186722895-67ee5b5e-be8c-41da-9a63-2b881fc0ff12.jpg)
 
 # WHY PUT THEM TOGETHER?
 The purpose of this Extension is to make best use of both world.
@@ -24,6 +24,8 @@ And sadly Usually Arduino doesn’t have network connection, and could not work 
 
 Read more about these boards.
 https://www.raspberrypi.org/
+
+
 https://www.arduino.cc/
 
 
