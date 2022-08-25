@@ -33,9 +33,10 @@ https://www.raspberrypi.org/
 https://www.arduino.cc/
 
 
-This idea may work fine with many com
+The idea may work fine with many compatible Arduino boards as well as Raspberry pi.
 
-# IOT DEVELOPMENT
+# ARE YOU NEW TO IOT DEVELOPMENT?
 The Internet of Things (IoT) describes the network of physical objects—“things”—that are embedded with sensors, software, and other technologies for the purpose of connecting and exchanging data with other devices and systems over the internet.
 ![What-is-IOT](https://user-images.githubusercontent.com/88959075/186719390-8f8edf68-4104-4009-823e-9ce07635c6b9.png)
 
+# HOW TO GET STARTED?
