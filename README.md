@@ -1,6 +1,6 @@
 # 🪐 Raspberry-pi-extension
 
-This repositoy is the basic introductory for getting started with Embeded sytems that involves communication between Raspbery pi and Arduino.
+This repository is the basic introductory for getting started with Embeded sytems that involves communication between Raspbery pi and Arduino.
 The solution includes a project example on Arduino side and Raspberry Pi Side where we connect them using both pyserial and pyfirmata libraries.
 
 ![RPi Arduino-Extension](https://user-images.githubusercontent.com/88959075/186722895-67ee5b5e-be8c-41da-9a63-2b881fc0ff12.jpg)
