@@ -6,7 +6,9 @@ The solution includes a project example on Arduino side and Raspberry Pi Side wh
 ![RPi Arduino-Extension](https://user-images.githubusercontent.com/88959075/186722895-67ee5b5e-be8c-41da-9a63-2b881fc0ff12.jpg)
 
 # WHY PUT THEM TOGETHER?
-The purpose of this Extension is to make best use of both world.
+The purpose of this Extension is to make best use of both world(R'pi & Arduino) to embrace challenges that may exist when alone interacting with one of them.
+
+
 We can easily access the GPIO pins on connected Arduino, just like they are on Raspberry Pi; accept analog input and generate accurate PWM output via the GPIO pins on Arduino.  It is also possible to make use of the shields for Arduino, indirectly on Raspberry Pi.
 
 There are some factors that limit the usage of Raspberry Pi in many scenarios.
